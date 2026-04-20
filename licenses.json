@@ -1,0 +1,47 @@
+[
+  {
+    "License": "BSD-3-Clause",
+    "Name": "Django",
+    "Version": "6.0.4"
+  },
+  {
+    "License": "MIT License",
+    "Name": "Faker",
+    "Version": "40.15.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "asgiref",
+    "Version": "3.11.1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "colorama",
+    "Version": "0.4.6"
+  },
+  {
+    "License": "MIT",
+    "Name": "django-jazzmin",
+    "Version": "3.0.4"
+  },
+  {
+    "License": "MIT-CMU",
+    "Name": "pillow",
+    "Version": "12.2.0"
+  },
+  {
+    "License": "BSD License; Other/Proprietary License",
+    "Name": "qrcode",
+    "Version": "8.2"
+  },
+  {
+    "License": "BSD License",
+    "Name": "sqlparse",
+    "Version": "0.5.5"
+  },
+  {
+    "License": "Apache-2.0",
+    "Name": "tzdata",
+    "Version": "2026.1"
+  }
+]
