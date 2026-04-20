@@ -1,0 +1,9 @@
+name : gym26sys
+email : wekagi8551@sskaid.com
+password :DemoDemo2026Mayo
+
+##############
+username = aboda2pair
+password = aboda2pair
+############
+admin , admin
